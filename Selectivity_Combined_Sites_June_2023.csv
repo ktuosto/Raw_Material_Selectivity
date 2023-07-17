@@ -1,0 +1,80 @@
+site ,raw_material,artifact_material_total,local_material_total,site_frequency,local_frequency
+LA2C,phonolite,1916,20,0.776337115,0.281690141
+LA2C,basalt,350,17,0.141815235,0.23943662
+LA2C,trachyte,175,26,0.070907618,0.366197183
+LA2C,rhyolite,5,4,0.002025932,0.056338028
+LA2C,syenite,1,0,0.000405186,0.007042254
+LA2C,indet,21,4,0.008508914,0.056338028
+AL894,rhyolite,241,184,46,0.599348534
+AL894,basalt,532,83,20.75,0.270358306
+AL894,trchyte,104,27,6.75,0.006514658
+AL894,odsidian,0,2,0,0.006514658
+AL894,varia,0,3,0,0.009771987
+EG-13,rhyolite,48,37,0.27,0.37
+EG-13,basalt,9,23,0.05,0.23
+EG-13,latite,11,6,0.06,0.06
+EG-13,trachyte,88,13,0.49,0.13
+EG-13,quartz latite,7,8,0.04,0.08
+EG-13,aphanitic volcanic,11,10,0.06,0.1
+EG-13,other,2,3,0.01,0.03
+EG-13,vitreous volcanic ,4,0,0.02,0
+OGS-6a,rhyolite,68.31,33.66,0.14,0.29
+OGS-6a,basalt,5.06,17.82,0.11,0.35
+OGS-6a,latite,43.01,12.87,0.11,0.15
+OGS-6a,trachyte,15.18,6.93,0.29,0.16
+OGS-6a,quartz latite,35.42,27.72,0.01,0.01
+OGS-6a,aphanitic volcanic,45.54,0,0.26,0.02
+OGS-6a,other,22.77,0,0,0
+OGS-6a,vitreous volcanic ,17.71,0,0.08,0.02
+DAN-1,rhyolite,28,39,0.25,0.39
+DAN-1,basalt,2.24,14,0.02,0.14
+DAN-1,latite,10.08,18,0.09,0.18
+DAN-1,trachyte,36.96,11,0.33,0.11
+DAN-1,quartz latite,3.36,16,0.03,0.16
+DAN-1,aphanitic volcanic,21.28,1,0.19,0.01
+DAN-1,other,3.36,1,0.03,0.01
+DAN-1,vitreous volcanic ,6.72,0,0.06,0
+DAS-7,rhyolite,64.6,39,0.34,0.39
+DAS-7,basalt,0,14,0,0.14
+DAS-7,latite,13.3,18,0.07,0.18
+DAS-7,trachyte,77.9,11,0.41,0.11
+DAS-7,quartz latite,3.8,16,0.02,0.16
+DAS-7,aphanitic volcanic,17.1,1,0.09,0.01
+DAS-7,other,7.6,1,0.04,0.01
+DAS-7,vitreous volcanic ,5.7,0,0.03,0
+DAN-2d ,rhyolite,15.6,49.5,0.26,0.21
+DAN-2d ,basalt,1.2,76.23,0.02,0.41
+DAN-2d ,latite,5.4,26.73,0.09,0.12
+DAN-2d ,trachyte,19.8,23.76,0.33,0.16
+DAN-2d ,quartz latite,1.8,11.88,0.03,0.02
+DAN-2d ,aphanitic volcanic,10.8,2.97,0.18,0.03
+DAN-2d ,other,1.8,5.94,0.03,0.04
+DAN-2d ,vitreous volcanic ,3.6,0.99,0.06,0.01
+AL-666,rhyolite,86.43,111.44,0.67,0.56
+AL-666,basalt,15.48,71.64,0.12,0.36
+AL-666,trachyte,5.16,15.92,0.04,0.08
+AL-666,quartz,18.06,0,0.14,0
+AL-666,chert,3.87,0,0.03,0
+Kanjera,Homa carbonatite,65,641.6,0.016459863,0.16285504
+Kanjera,Fenetized nyanzian,1785,1068.1,0.452013168,0.271112014
+Kanjera,Homa ijolite,4,158.4,0.001012915,0.040206107
+Kanjera,Homa limestone,255,488.6,0.06457331,0.124019595
+Kanjera,Homa nephelinite,3,210.6,0.000759686,0.053455847
+Kanjera,Homa phonolite,586,129,0.148391998,0.03274361
+Kanjera,Nyanzian rhyolite,299,81.3,0.075715371,0.020636089
+Kanjera,Bukoban basalt,131,88.1,0.033172955,0.022362109
+Kanjera,Schistose rocks,2,451.9,0.000506457,0.114704165
+Kanjera,Nyanzian chert,42,90.7,0.010635604,0.023022058
+Kanjera,Oyugis granite,148,84.4,0.037477842,0.021422951
+Kanjera,Miriu granodiorite,0,78.5,0,0.019925375
+Kanjera,Bukoban quartzite,248,41.2,0.062800709,0.010457649
+Kanjera,Bukoban felsite,290,89.8,0.073436313,0.022793614
+Kanjera,Vein quartz,91,237.5,0.023043809,0.060283778
+OGS-7,rhyolite,68.31,33.66,0.27,0.34
+OGS-7,basalt,5.06,17.82,0.02,0.18
+OGS-7,latite,43.01,12.87,0.17,0.13
+OGS-7,trachyte,15.18,6.93,0.06,0.07
+OGS-7,quartz latite,35.42,27.72,0.14,0.28
+OGS-7,aphanitic volcanic,45.54,0,0.18,0
+OGS-7,other,22.77,0,0.09,0
+OGS-7,vitreous volcanic ,17.71,0,0.07,0
