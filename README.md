@@ -17,7 +17,7 @@ The Simplified_Combined_Sites simplified the raw material names and grouped the 
 
 For the purpose of this code, we used the Simplified_Combined_Sites dataset.
 
-**Note: Artifact raw material totals and local raw material totals were used to generate adjusted local raw material totals, adjusted raw material local frequency, and create the simplified dataset.
+**Note: Artifact raw material totals and local raw material totals were used to generate adjusted local raw material totals, adjusted raw material local frequency, and created the simplified dataset.**
 
 For artifact raw material totals and local raw material totals for sites AL894 and AL-666 were extrapolated from Goldman-Neuman and Hovers (2012), calculating the totals from the reported frequencies and sample totals in Google Sheets (see Figure 1 for formula). 
 
