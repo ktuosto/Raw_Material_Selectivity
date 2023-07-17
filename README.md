@@ -32,9 +32,9 @@ LA2C site data is from a presentation by Tuosto et al. (2017).
 
 ## Code
 
-Calculating initial sample totals was done in Google Sheets (see Figure 1), the frequencies, selectivity analysis, and data visualization was done in R, and the dashboard creation was done in R Shiny. 
+Calculating initial sample totals was done in Google Sheets (see Figure 1), the frequencies, selectivity analysis, and data visualization was done in R, and the dashboard creation was done in Tableau. 
 
-The first code file provided here is for the frequencies, selectivity analysis, and data visualization. The second code file is for the dashboard creation. 
+The first code file provided here is for the frequencies, selectivity analysis, and data visualization. 
 
 ## Usage
 
