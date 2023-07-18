@@ -52,7 +52,7 @@ For example:
 
 ## Results
 
-See [Tableau](https://public.tableau.com/app/profile/kristen.tuosto/viz/EarlyHumansCognitiveAbilities/Dashboard1) for dashboard  
+See [Tableau](https://public.tableau.com/app/profile/kristen.tuosto/viz/EarlyHumansCognitiveAbilities/Dashboard1) for dashboard. 
 
 - Evidence from numerous Early Pleistocene sites suggests hominins consistently select rock types for artifact manufacture at levels that exceed their availability in local gravels.
 
