@@ -52,6 +52,8 @@ For example:
 
 ## Results
 
+See [Tableau](https://public.tableau.com/app/profile/kristen.tuosto/viz/EarlyHumansCognitiveAbilities/Dashboard1) for dashboard  
+
 - Evidence from numerous Early Pleistocene sites suggests hominins consistently select rock types for artifact manufacture at levels that exceed their availability in local gravels.
 
 Meaning our early human ancestors 2.5 million years ago were consciously selecting specific stones for tool making and not randomly picking up just any stone, suggesting they had the cognitive ability to understand stone properties needed for making a stone tool. 
